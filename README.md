@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ehkr1997
+- 👋 Hi, I’m Hemanth Kumar Reddy Edde
 - 👀 I’m interested in devops engineering
 - 🌱 I’m currently learning devops 
 - 💞️ I’m looking to collaborate on devops team
