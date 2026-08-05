@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hemanth Kumar Reddy Edde
 - 👀 I’m interested in devops engineering
-- 🌱 I’m currently learning devops 
+- 🌱 I’m currently working as a system admin looking for devops engineer 
 - 💞️ I’m looking to collaborate on devops team
 - 📫 How to reach me 9963363983
 - 😄 Pronouns: vinod
